@@ -14,3 +14,4 @@ begin
 	end process;
 
 end architecture;
+-- Add a single comment for testing
