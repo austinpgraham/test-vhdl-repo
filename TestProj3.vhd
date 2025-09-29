@@ -13,5 +13,5 @@ begin
 		some_other_record : t_TEST_RECORD := (some_field => 10);
 	end process;
 
-end architecture;
+  end architecture;
 -- testset
