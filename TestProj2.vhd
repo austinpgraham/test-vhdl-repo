@@ -20,5 +20,5 @@ begin
 		
 	end process;
 
-end architecture;
--- test test test
+  end architecture;
+-- test
