@@ -1,1 +1,0 @@
---Poor option determine face picture.
