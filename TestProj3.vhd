@@ -10,8 +10,7 @@ begin
 	process is
 	begin
 		some_record := c_FROM_FIFO_INIT;
-		some_other_record : t_TEST_RECORD := (some_field => 10);
+		some_other_record : t_TEST_RECORD := (some_field => 11);
 	end process;
 
   end architecture;
--- testset
